@@ -2,19 +2,19 @@ import os
 
 class Config:
 
-    BOT_TOKEN = "7879947375:AAFwuV4am9rCXBUxoHX5BVuxewm2TcDXrUA"
+    BOT_TOKEN = "7879947375:AAFwBVuxewm2TcDXrUA"
 
     SESSION_NAME = "ytubbot"
 
-    API_ID = "28234847"
+    API_ID = "28797777"
 
-    API_HASH = "a494667c22f483263f1e7612f4f1a576"
+    API_HASH = "a494667c22f4832636vvhgb661a576"
 
-    CLIENT_ID = "113211858679-63hr0vcqb9528d3779vibkv6hdofthq8.apps.googleusercontent.com"
+    CLIENT_ID = "113211858679-63ĝugggvvnb9vibkv6hdofthq8.apps.googleusercontent.com"
 
-    CLIENT_SECRET = "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"
+    CLIENT_SECRET = "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8tl7"
 
-    AUTH_USERS = [1387186514]
+    AUTH_USERS = [1387186014]
 
     VIDEO_DESCRIPTION = ""
 
